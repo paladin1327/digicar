@@ -1,6 +1,7 @@
-package mx.promtec.digicar;
+package mx.promtec.digicar.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
+import mx.promtec.digicar.R;
 
 import android.os.Bundle;
 
